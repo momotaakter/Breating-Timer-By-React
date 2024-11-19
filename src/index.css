@@ -1,0 +1,47 @@
+.mydiv{
+    width:100%;
+    height:100vh;
+    background-image:url('./myimg.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  
+  }
+    
+.main-div{
+    width:400px;
+    height:400px;
+    background-color:#f1903c86;
+    margin-top:60px;
+    border-radius:10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    color:black;
+    font-weight: bold;
+   
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button{
+    background-color:black;
+    padding:10px 19px;
+    color:white;
+    margin:10px;
+    border:none;
+    font-size: 17px;
+    border-radius:5px;
+    cursor: pointer;
+    text-transform: capitalize;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bg-change{
+    background-color:#cb8153;
+}
